@@ -1,0 +1,26 @@
+.form-container {
+    position: relative;
+    margin: auto;
+    height: 50%;
+    width: 45%;
+    background-color: dimgrey;
+    margin-top: 10%;
+    padding: 35px 10px 25px 10px;
+    border-radius: 0.5rem;
+}
+
+.form-field-container{
+    width: 75%;
+    position: relative;
+    margin-left: 50px;
+}
+
+.form-submit-button {
+    position: relative;
+    margin-top: 5%;
+}
+
+.form-header-container {
+    position: relative;
+    bottom: 10px;
+}
